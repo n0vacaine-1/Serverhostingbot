@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "Hello_Pratham",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "laltensmps2.mcsh.io",
     "port": 25565,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Hello Praa",
+        "Pls Send Me Pictures of you",
+        "Love, Hello_Pratham"
       ]
     },
     "chat-log": true,
